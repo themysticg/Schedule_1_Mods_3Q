@@ -1,0 +1,15 @@
+{
+    "interceptFail": 0.050,
+    "interceptSuccess": -0.050,
+    "deadDropFail": 0.050,
+    "deadDropSuccess": -0.025,
+    "gatheringFail": 0.025,
+    "gatheringSuccess": -0.080,
+    "robberyPlayerEscape": 0.080,
+    "robberyGoonEscapeSuccess": 0.080,
+    "robberyGoonDead": -0.080,
+    "robberyGoonEscapeDead": -0.050,
+    "cartelDealerDied": -0.050,
+    "ambushDefeated": -0.025,
+    "passiveInfluenceGainPerDay": 0.050
+}

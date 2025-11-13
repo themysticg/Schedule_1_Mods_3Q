@@ -1,0 +1,18 @@
+{
+    "debugMode": false,
+    "activityFrequency": 1.0,
+    "activityInfluenceMin": 0.0,
+    "ambushFrequency": 1.0,
+    "deadDropStealFrequency": 1.0,
+    "cartelCustomerDealFrequency": 1.0,
+    "cartelRobberyFrequency": 1.0,
+    "driveByEnabled": true,
+    "realRobberyEnabled": true,
+    "defaultRobberyEnabled": true,
+    "miniQuestsEnabled": true,
+    "interceptDeals": true,
+    "enhancedDealers": true,
+    "cartelGatherings": true,
+    "endGameQuest": true,
+    "endGameQuestMonologueSpeed": 1.0
+}
