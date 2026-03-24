@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fomod>
+  <Name>OTC Loader</Name>
+  <Author>hdlmrell</Author>
+  <Version>1.0.1</Version>
+  <Website>https://github.com/donelliott18/OverTheCounter</Website>
+  <Description>MelonLoader plugin that auto-detects your game branch (IL2CPP or Mono) and disables incompatible mod DLLs. Works for all mods, not just OverTheCounter.</Description>
+</fomod>
